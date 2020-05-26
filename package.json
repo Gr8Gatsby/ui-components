@@ -22,7 +22,8 @@
       }
     ],
     "expose": [
-      "ui/greeting"
+      "ui/greeting",
+      "ui/inputSentiment"
     ]
   },
   "author": "Kevin Hill",
