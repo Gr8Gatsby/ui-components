@@ -1,5 +1,5 @@
 {
-  "name": "ui-components",
+  "name": "@greatgatsby/ui-components",
   "version": "1.0.0",
   "description": "This package contains some sample lwc components for demos",
   "main": "index.js",
