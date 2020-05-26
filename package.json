@@ -1,0 +1,24 @@
+{
+  "name": "ui-components",
+  "version": "1.0.0",
+  "description": "This package contains some sample lwc components for demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gr8Gatsby/ui-components.git"
+  },
+  "keywords": [
+    "ui",
+    "components",
+    "lwc"
+  ],
+  "author": "Kevin Hill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gr8Gatsby/ui-components/issues"
+  },
+  "homepage": "https://github.com/Gr8Gatsby/ui-components#readme"
+}
