@@ -15,6 +15,16 @@
     "components",
     "lwc"
   ],
+  "lwc": {
+    "modules": [
+      {
+        "dir": "src/modules"
+      }
+    ],
+    "expose": [
+      "ui/greeting"
+    ]
+  },
   "author": "Kevin Hill",
   "license": "MIT",
   "bugs": {
