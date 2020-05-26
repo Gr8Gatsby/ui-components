@@ -1,5 +1,5 @@
 import {LightningElement, track, api} from 'lwc';
-import empath from 'c/empath';
+import empath from 'ui/empath';
 
 export default class InputSentiment extends LightningElement {
   @track sentimentScore = 0;
