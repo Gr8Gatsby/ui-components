@@ -7,4 +7,3 @@ This project is a collection of sample components I use to build demonstrations 
 # List of components
 
 * ui-greeting - this is a simple greeting component that animates through hello in serveral languages
-* ui-input-sentiment - this is a text input that scores empathy of the input using empath.
