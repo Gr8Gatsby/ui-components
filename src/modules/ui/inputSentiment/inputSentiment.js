@@ -1,5 +1,5 @@
 import {LightningElement, track, api} from 'lwc';
-import empath from './empath';
+import {analyseSentiment} from './empath';
 
 export default class InputSentiment extends LightningElement {
   @track sentimentScore = 0;
@@ -7,7 +7,7 @@ export default class InputSentiment extends LightningElement {
 
   handleInputChange (evt) {
     try {
-      let sentiment = empath.analyseSentiment (evt.target.value);
+      let sentiment = analyseSentiment (evt.target.value);
       this.sentimentScore = sentiment.score;
     } catch (error) {
       console.log (error);

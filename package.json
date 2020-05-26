@@ -1,6 +1,6 @@
 {
   "name": "@greatgatsby/ui-components",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "description": "This package contains some sample lwc components for demos",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "expose": [
       "ui/greeting",
       "ui/inputSentiment",
-      "ui/empath"
+      "ui/satisfied"
     ]
   },
   "author": "Kevin Hill",
