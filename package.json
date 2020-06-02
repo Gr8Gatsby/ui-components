@@ -25,7 +25,11 @@
       "ui/bootstrapButton",
       "ui/greeting",
       "ui/inputSentiment",
-      "ui/satisfied"
+      "ui/satisfied",
+      "lightning/button",
+      "c/primativeButton",
+      "c/utils",
+      "c/utilsPrivate"
     ]
   },
   "author": "Kevin Hill",
