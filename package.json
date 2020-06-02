@@ -1,6 +1,6 @@
 {
   "name": "@greatgatsby/ui-components",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "description": "This package contains some sample lwc components for demos",
   "main": "index.js",
   "scripts": {
