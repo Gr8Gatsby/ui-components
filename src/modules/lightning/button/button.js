@@ -15,17 +15,11 @@ export default class cButton extends cPrimitiveButton {
   static delegatesFocus = true;
 
   @api name;
-
   @api value;
-
   @api label;
-
   @api variant = 'neutral';
-
   @api iconName;
-
   @api iconPosition = 'left';
-
   @api type = 'button';
 
   @track title = null;
