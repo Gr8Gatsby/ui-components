@@ -147,7 +147,7 @@ export default class lightningButton extends lightningPrimitiveButton {
   }
 }
 
-cButton.interopMap = {
+lightningButton.interopMap = {
   exposeNativeEvent: {
     click: true,
     focus: true,
