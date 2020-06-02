@@ -6,8 +6,8 @@
  */
 
 import {api, track} from 'lwc';
-import {classSet} from 'c/utils';
-import {normalizeString as normalize} from 'c/utilsPrivate';
+import {classSet} from 'lightning/utils';
+import {normalizeString as normalize} from 'lightning/utilsPrivate';
 import lightningPrimitiveButton from 'lightning/primitiveButton';
 import template from './button.html';
 
