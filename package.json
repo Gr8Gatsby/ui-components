@@ -1,6 +1,6 @@
 {
   "name": "@greatgatsby/ui-components",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "This package contains some sample lwc components for demos",
   "main": "index.js",
   "scripts": {
@@ -29,7 +29,8 @@
       "lightning/button",
       "lightning/primativeButton",
       "lightning/utils",
-      "lightning/utilsPrivate"
+      "lightning/utilsPrivate",
+      "lightning/slds"
     ]
   },
   "author": "Kevin Hill",
