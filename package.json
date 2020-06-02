@@ -26,12 +26,12 @@
       "ui/greeting",
       "ui/inputSentiment",
       "ui/satisfied",
-      "lightning/button",
       "lightning/primativeButton",
       "lightning/utils",
       "lightning/utilsPrivate",
       "lightning/slds",
-      "lightning/card"
+      "lightning/card",
+      "lightning/button"
     ]
   },
   "author": "Kevin Hill",
